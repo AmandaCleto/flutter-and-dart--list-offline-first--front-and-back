@@ -28,7 +28,7 @@ class _HomePageState extends State<HomePage> {
         child: Column(
           children: [
             Padding(
-              padding: const EdgeInsets.all(8),
+              padding: const EdgeInsets.only(top: 20),
               child: SegmentedButton<int>(
                 segments: const [
                   ButtonSegment(
