@@ -1,5 +1,4 @@
 import 'package:list/src/shared/services/realm/models/configuration_model.dart';
-import 'package:list/src/shared/services/realm/models/task_board_model.dart';
 import 'package:list/src/shared/services/realm/models/task_model.dart';
 import 'package:realm/realm.dart';
 

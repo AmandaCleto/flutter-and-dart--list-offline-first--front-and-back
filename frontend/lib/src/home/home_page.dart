@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:realm/realm.dart';
 
-import '../shared/services/realm/models/task_board_model.dart';
 import '../shared/services/realm/models/task_model.dart';
 import '../shared/widgets/user_image_button.dart';
 import 'widgets/custom_drawer.dart';

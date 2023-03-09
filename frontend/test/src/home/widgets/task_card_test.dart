@@ -1,6 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:list/src/home/widgets/task_card.dart';
-import 'package:list/src/shared/services/realm/models/task_board_model.dart';
 import 'package:list/src/shared/services/realm/models/task_model.dart';
 import 'package:list/src/shared/themes/themes.dart';
 import 'package:realm/realm.dart';

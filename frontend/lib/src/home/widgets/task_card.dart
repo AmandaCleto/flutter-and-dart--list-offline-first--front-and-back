@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../../shared/services/realm/models/task_board_model.dart';
 import '../../shared/services/realm/models/task_model.dart';
 
 enum TaskCardStatus {
